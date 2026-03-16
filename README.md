@@ -102,7 +102,7 @@ A monthly trend analysis showing how product demand changes over the year.
 
 # Dashboard Preview
 
-![Coca Cola Dashboard](cocaCola dashboard.png)
+![Coca Cola Dashboard](cocadash.png)
 ![Coca Cola Dashboard](cocacola2.png)
 ---
 
